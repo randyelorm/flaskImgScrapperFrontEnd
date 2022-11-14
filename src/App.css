@@ -1,0 +1,99 @@
+body {
+  background-color: black !important;
+
+}
+
+
+.App {
+
+
+  padding: 1rem;
+}
+
+
+.cards {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.button {
+  padding: 0.3rem !important;
+  margin-left: 1rem;
+}
+
+.images {
+  width: 18rem;
+  height: 18rem;
+
+}
+
+.inputform {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 3rem;
+
+
+}
+
+.text {
+  text-align: center;
+  color: white;
+  font-family: 'Sono', sans-serif;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  z-index: 9999999;
+
+
+}
+
+
+.danceGIF {
+  width: 20rem;
+  height: 20rem;
+  margin-top: 3rem;
+  border-radius: 50rem;
+}
+
+.danceGIF2 {
+  width: 15rem;
+  height: 15rem;
+  margin-top: 3rem;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+.beforeImages {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit {
+  background-color: #1A73E8;
+  border: #1A73E8;
+  color: white;
+  font-weight: bold;
+}
